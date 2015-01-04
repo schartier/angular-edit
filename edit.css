@@ -1,0 +1,6 @@
+[sc-edit="text"], [sc-edit] {
+  display: inline-block;
+}
+[sc-edit="textarea"] {
+  height: auto !important;
+}
