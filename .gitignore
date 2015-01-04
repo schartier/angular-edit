@@ -13,6 +13,8 @@ pids
 logs
 results
 
+nbproject
+
 node_modules
 
 bower_components
